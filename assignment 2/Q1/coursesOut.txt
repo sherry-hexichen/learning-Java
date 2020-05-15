@@ -1,0 +1,6 @@
+20163008,Aristotle,Department of Philosophy,3,2
+20162006,Zookeeping,Animal Science,2,1
+20162003,Intermediate Cereal Cooking,Culinary Arts,2,2
+20163004,Potato Trees,Agriculture,3,2
+20161005,Paper Airplanes,Mechanical Engineering,1,4
+20161002,Basket Weaving,Fine Arts,1,1
