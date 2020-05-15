@@ -1,0 +1,9 @@
+There are 6 courses available:
+	CRN: 20161001: Term: Winter, Advanced YouTube Commenting, Dept: Comp Sci (year 3)
+	CRN: 20161002: Term: Winter, Basket Weaving, Dept: Fine Arts (year 1)
+	CRN: 20162003: Term: Spring, Intermediate Cereal Cooking, Dept: Culinary Arts (year 2)
+	CRN: 20163004: Term: Fall, Potato Trees, Dept: Agriculture (year 2)
+	CRN: 20161005: Term: Winter, Paper Airplanes, Dept: Mechanical Engineering (year 4)
+	CRN: 20162006: Term: Spring, Zookeeping, Dept: Animal Science (year 1)
+End of processing.
+Programmed by Stew Dent.

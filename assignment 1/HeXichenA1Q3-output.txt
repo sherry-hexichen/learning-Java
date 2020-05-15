@@ -1,0 +1,36 @@
+There are 13 courses available:
+	CRN: 20161001: Term: Winter, Natural Resources, Dept: Geography (year 2)
+	CRN: 20162002: Term: Spring, Real-Time Systems, Dept: Comp Sci (year 4)
+	CRN: 20163003: Term: Fall, Culture and Environment, Dept: Geography (year 2)
+	CRN: 20162004: Term: Spring, Aristotle, Dept: Philosophy (year 2)
+	CRN: 20163005: Term: Fall, Design in Engineering, Dept: Engineering (year 1)
+	CRN: 20163006: Term: Fall, Literary Topics, Dept: English (year 1)
+	CRN: 20161007: Term: Winter, Structure and Modelling, Dept: Chemistry (year 1)
+	CRN: 20162008: Term: Spring, Finite Element Analysis, Dept: Engineering (year 3)
+	CRN: 20161009: Term: Winter, Plant and Animal Physiology, Dept: Agriculture (year 2)
+	CRN: 20163010: Term: Fall, Biomachinery, Dept: Biosystems (year 4)
+	CRN: 20161011: Term: Winter, Health and Disease, Dept: History (year 4)
+	CRN: 20163012: Term: Fall, Ethics and Biomedicine, Dept: Philosophy (year 2)
+	CRN: 20163013: Term: Fall, Programming Language Concepts, Dept: Comp Sci (year 3)
+
+Cancelling courses offered by Engineering and Geography...
+There are 9 courses available:
+	CRN: 20161011: Term: Winter, Health and Disease, Dept: History (year 4)
+	CRN: 20162002: Term: Spring, Real-Time Systems, Dept: Comp Sci (year 4)
+	CRN: 20163010: Term: Fall, Biomachinery, Dept: Biosystems (year 4)
+	CRN: 20162004: Term: Spring, Aristotle, Dept: Philosophy (year 2)
+	CRN: 20163013: Term: Fall, Programming Language Concepts, Dept: Comp Sci (year 3)
+	CRN: 20163006: Term: Fall, Literary Topics, Dept: English (year 1)
+	CRN: 20161007: Term: Winter, Structure and Modelling, Dept: Chemistry (year 1)
+	CRN: 20163012: Term: Fall, Ethics and Biomedicine, Dept: Philosophy (year 2)
+	CRN: 20161009: Term: Winter, Plant and Animal Physiology, Dept: Agriculture (year 2)
+
+List of remaining Term 3 courses:
+There are 4 courses available:
+	CRN: 20163010: Term: Fall, Biomachinery, Dept: Biosystems (year 4)
+	CRN: 20163013: Term: Fall, Programming Language Concepts, Dept: Comp Sci (year 3)
+	CRN: 20163006: Term: Fall, Literary Topics, Dept: English (year 1)
+	CRN: 20163012: Term: Fall, Ethics and Biomedicine, Dept: Philosophy (year 2)
+
+End of processing.
+Programmed by Stew Dent.
